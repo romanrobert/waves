@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/romanrobert/music-player/static/css/main.c46e0d61.chunk.css",
+    "main.js": "/romanrobert/music-player/static/js/main.9ab1eda2.chunk.js",
+    "main.js.map": "/romanrobert/music-player/static/js/main.9ab1eda2.chunk.js.map",
+    "runtime-main.js": "/romanrobert/music-player/static/js/runtime-main.d32dccfb.js",
+    "runtime-main.js.map": "/romanrobert/music-player/static/js/runtime-main.d32dccfb.js.map",
+    "static/js/2.25182f38.chunk.js": "/romanrobert/music-player/static/js/2.25182f38.chunk.js",
+    "static/js/2.25182f38.chunk.js.map": "/romanrobert/music-player/static/js/2.25182f38.chunk.js.map",
+    "static/js/3.b935e084.chunk.js": "/romanrobert/music-player/static/js/3.b935e084.chunk.js",
+    "static/js/3.b935e084.chunk.js.map": "/romanrobert/music-player/static/js/3.b935e084.chunk.js.map",
+    "index.html": "/romanrobert/music-player/index.html",
+    "static/css/main.c46e0d61.chunk.css.map": "/romanrobert/music-player/static/css/main.c46e0d61.chunk.css.map",
+    "static/js/2.25182f38.chunk.js.LICENSE.txt": "/romanrobert/music-player/static/js/2.25182f38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d32dccfb.js",
+    "static/js/2.25182f38.chunk.js",
+    "static/css/main.c46e0d61.chunk.css",
+    "static/js/main.9ab1eda2.chunk.js"
+  ]
+}
